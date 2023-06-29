@@ -1,0 +1,4 @@
+Enter a subcommand (deploy/rollback): deploy
+Enter the name of the application: SG-ProcessApplication
+Enter the target environment: PRODUCTION
+Deploying SG-ProcessApplication to PRODUCTION environment...
